@@ -1,0 +1,14 @@
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\90506\source\repos\KampIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\90506\source\repos\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache

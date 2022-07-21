@@ -1,0 +1,13 @@
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.exe
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.deps.json
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.runtimeconfig.json
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.runtimeconfig.dev.json
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.dll
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\bin\Debug\netcoreapp3.1\DegerVeReferanTipler.pdb
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.AssemblyInfoInputs.cache
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.AssemblyInfo.cs
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.dll
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.pdb
+C:\Users\90506\source\repos\KampIntro\DegerveReferanTipler\obj\Debug\netcoreapp3.1\DegerVeReferanTipler.genruntimeconfig.cache
