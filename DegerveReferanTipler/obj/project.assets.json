@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90506\\source\\repos\\Kamp\\DegerveReferanTipler\\DegerVeReferanTipler.csproj",
-      "projectName": "DegerVeReferanTipler",
-      "projectPath": "C:\\Users\\90506\\source\\repos\\Kamp\\DegerveReferanTipler\\DegerVeReferanTipler.csproj",
+      "projectUniqueName": "C:\\Users\\90506\\source\\repos\\Kamp\\DegerveReferanTipler\\DegerVeReferansTipler.csproj",
+      "projectName": "DegerVeReferansTipler",
+      "projectPath": "C:\\Users\\90506\\source\\repos\\Kamp\\DegerveReferanTipler\\DegerVeReferansTipler.csproj",
       "packagesPath": "C:\\Users\\90506\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\90506\\source\\repos\\Kamp\\DegerveReferanTipler\\obj\\",
       "projectStyle": "PackageReference",
